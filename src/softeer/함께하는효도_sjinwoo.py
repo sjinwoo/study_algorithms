@@ -2,6 +2,9 @@ import sys
 import itertools
 import copy
 
+# NOTE: 현재 풀이 중
+
+
 def validate_range(x, y):
     """좌표 값이 유효한 범위 내인지 확인"""
     global N
