@@ -1,2 +1,2 @@
 # study_algorithms
-test
+계정 테스트
